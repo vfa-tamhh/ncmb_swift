@@ -14,7 +14,7 @@
 
 といった機能をアプリから利用することが可能です。
 
-このSDKを利用する前に、ニフクラ mobile backendのアカウントを作成する必要があります。
+このSDKを利用する前に、ニフクラ mobile backendのアカウントを作成する必要があります。 ahaihdaisdhiadh
 
 ## 動作環境
 - Swift version 4.2
